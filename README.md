@@ -1,9 +1,9 @@
 # THIS GITHUB SITE IS BEING DEPRECATED
 
-#please click the button labeled "NEW SITE!!" on the website
-#or if its blocked go to https://server-bulk.web.app
+# please click the button labeled "NEW SITE!!" on the website
+# or if its blocked go to https://server-bulk.web.app
 
-#reason for deprecation is shifting to firebase in lieu of potential blocking
+# reason for deprecation is shifting to firebase in lieu of potential blocking
 
 
 
