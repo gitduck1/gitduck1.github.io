@@ -109,8 +109,8 @@ button {
 }
 .button-container-bottom {
     position: absolute;
-    top: 94%;
-    left: 96%;
+    top: 75%;
+    left: 50%;
     transform: translate(-50%, -50%);
     display: flex;
     flex-direction: column;
@@ -118,7 +118,7 @@ button {
 }
 
 .glow-on-hover-bottom {
-    width: 50px;
+    width: 220px;
     height: 50px;
     border: none;
     outline: none;
